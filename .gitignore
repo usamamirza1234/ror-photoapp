@@ -21,6 +21,7 @@
 /tmp/pids/*
 !/tmp/pids/
 !/tmp/pids/.keep
+!/tmp/build_2b72b030/
 
 # Ignore uploaded files in development.
 /storage/*
@@ -34,7 +35,7 @@
 
 /public/packs
 /public/packs-test
-/node_modules
+#/node_modules
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
